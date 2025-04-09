@@ -2,13 +2,9 @@
 
 This repository contains the final assignment for the Angular course in Semester 4, Winter 2024.
 
+## Overview
 
-## Technologies Used
 
-* **Angular:** [Specify the Angular version used, e.g., Angular 19]
-* **TypeScript:** [Mention the TypeScript version, if known]
-* **[Other Frameworks/Libraries]:** [List any other significant libraries or frameworks used, e.g., Angular Material, RxJS, NgRx, a specific CSS framework, etc.]
-* **[Backend Technologies (if any)]:** [If your application interacts with a backend, mention the technologies used there.]
 
 ## Setup Instructions
 
