@@ -2,13 +2,10 @@
 
 This repository contains the final assignment for the Angular course in Semester 4, Winter 2024.
 
-## Overview
-
-[Provide a brief description of the application's purpose and functionality. What does it do? What problem does it solve? What are its key features?]
 
 ## Technologies Used
 
-* **Angular:** [Specify the Angular version used, e.g., Angular 17]
+* **Angular:** [Specify the Angular version used, e.g., Angular 19]
 * **TypeScript:** [Mention the TypeScript version, if known]
 * **[Other Frameworks/Libraries]:** [List any other significant libraries or frameworks used, e.g., Angular Material, RxJS, NgRx, a specific CSS framework, etc.]
 * **[Backend Technologies (if any)]:** [If your application interacts with a backend, mention the technologies used there.]
